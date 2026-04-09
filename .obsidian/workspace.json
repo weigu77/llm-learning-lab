@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily-review.md",
+                "file": "notes/daily-review-day1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-review"
+              "title": "daily-review-day1"
             }
           }
         ]
@@ -183,9 +183,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "04b19f863b22bf2d",
+  "active": "1f85aa81a804ca20",
   "lastOpenFiles": [
-    "README.md",
-    "notes/daily-review.md"
+    "notes/daily-review-day2.md",
+    "notes/daily-review-day1.md",
+    "notes/day2-prompt-engineering-guide.md",
+    "notes/day2-llm-basics.md",
+    "README.md"
   ]
 }
