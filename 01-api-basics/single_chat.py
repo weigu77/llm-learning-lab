@@ -27,10 +27,8 @@ def ask_llm(user_message: str) -> str:
             {"role": "user", "content": user_message}
         ],
         # 设定temperature
-        top_p=0.7,
-        temperature=0.9
+        temperature=0.1
     )
-
     # 5.分离模型回答的文本
     answer = response.choices[0].message.content
     print(f"🤖 AI: {answer}\n")
